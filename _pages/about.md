@@ -7,7 +7,13 @@ comments: true
 
 ## Bio
 
-Full time system engineer working in Tokyo.
+![avatar](/assets/images/avatar.png)
+
+* Name: Chaoyi Li
+* Date of birth: Oct 14, 1988
+* Job: System engineer
+* Location: Tokyo
+* Email: contact@lichaoyi.me
 
 ## Interest
 
