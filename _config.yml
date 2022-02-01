@@ -1,7 +1,7 @@
 # Site
 name: "Wonderland"
 title: "Wonderland"
-description: "Welcome to Wonderland，I will be really happy if any contents here can help you!"
+description: "Welcome to Wonderland! Hope contents here can help you."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
